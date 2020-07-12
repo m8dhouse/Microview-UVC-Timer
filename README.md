@@ -1,6 +1,6 @@
 # Microview-UVC-Timer
 
-Spartfun Microview project
+Sparkfun Microview project
 Simple Relay (Keyes_SRly)
 Uses Shelly UVC LED lights 260-280nm
 Pushbutton to start process
