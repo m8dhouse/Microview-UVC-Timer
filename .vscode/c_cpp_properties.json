@@ -1,0 +1,100 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Mac",
+            "macFrameworkPath": [],
+            "includePath": [
+                "/Users/christophemes/Documents/PlatformIO/Projects/Microview/include",
+                "/Users/christophemes/Documents/PlatformIO/Projects/Microview/src",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/variants/standard",
+                "/Users/christophemes/.platformio/lib/ADXL345-AccelerometerPitchRoll-master",
+                "/Users/christophemes/.platformio/lib/ADXL362_ID1176",
+                "/Users/christophemes/.platformio/lib/Adafruit BusIO",
+                "/Users/christophemes/.platformio/lib/Adafruit Thermal Printer Library",
+                "/Users/christophemes/.platformio/lib/Adafruit Unified Sensor",
+                "/Users/christophemes/.platformio/lib/Arduino Low Power_ID1577/src",
+                "/Users/christophemes/.platformio/lib/Arduino SigFox for MKRFox1200_ID1432/src",
+                "/Users/christophemes/.platformio/lib/Arduino-ADXL345-master",
+                "/Users/christophemes/.platformio/lib/Base64_ID582/src",
+                "/Users/christophemes/.platformio/lib/CTBot/src",
+                "/Users/christophemes/.platformio/lib/EspSoftwareSerial/src",
+                "/Users/christophemes/.platformio/lib/I2Cdevlib-ADXL345_ID96",
+                "/Users/christophemes/.platformio/lib/IotWebConf_ID5676/src",
+                "/Users/christophemes/.platformio/lib/Low-Power_ID38",
+                "/Users/christophemes/.platformio/lib/M5Stack_ID1851/src",
+                "/Users/christophemes/.platformio/lib/MySensors NodeManager_ID5947",
+                "/Users/christophemes/.platformio/lib/MySensors_ID548",
+                "/Users/christophemes/.platformio/lib/RTCZero_ID873/src",
+                "/Users/christophemes/.platformio/lib/SparkFun ADXL345 Arduino Library_ID2879/src",
+                "/Users/christophemes/.platformio/lib/SparkFun_MicroView/src",
+                "/Users/christophemes/.platformio/lib/WifiManager_ID567",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "/Users/christophemes/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/christophemes/Documents/PlatformIO/Projects/Microview/include",
+                    "/Users/christophemes/Documents/PlatformIO/Projects/Microview/src",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "/Users/christophemes/.platformio/lib/ADXL345-AccelerometerPitchRoll-master",
+                    "/Users/christophemes/.platformio/lib/ADXL362_ID1176",
+                    "/Users/christophemes/.platformio/lib/Adafruit BusIO",
+                    "/Users/christophemes/.platformio/lib/Adafruit Thermal Printer Library",
+                    "/Users/christophemes/.platformio/lib/Adafruit Unified Sensor",
+                    "/Users/christophemes/.platformio/lib/Arduino Low Power_ID1577/src",
+                    "/Users/christophemes/.platformio/lib/Arduino SigFox for MKRFox1200_ID1432/src",
+                    "/Users/christophemes/.platformio/lib/Arduino-ADXL345-master",
+                    "/Users/christophemes/.platformio/lib/Base64_ID582/src",
+                    "/Users/christophemes/.platformio/lib/CTBot/src",
+                    "/Users/christophemes/.platformio/lib/EspSoftwareSerial/src",
+                    "/Users/christophemes/.platformio/lib/I2Cdevlib-ADXL345_ID96",
+                    "/Users/christophemes/.platformio/lib/IotWebConf_ID5676/src",
+                    "/Users/christophemes/.platformio/lib/Low-Power_ID38",
+                    "/Users/christophemes/.platformio/lib/M5Stack_ID1851/src",
+                    "/Users/christophemes/.platformio/lib/MySensors NodeManager_ID5947",
+                    "/Users/christophemes/.platformio/lib/MySensors_ID548",
+                    "/Users/christophemes/.platformio/lib/RTCZero_ID873/src",
+                    "/Users/christophemes/.platformio/lib/SparkFun ADXL345 Arduino Library_ID2879/src",
+                    "/Users/christophemes/.platformio/lib/SparkFun_MicroView/src",
+                    "/Users/christophemes/.platformio/lib/WifiManager_ID567",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "/Users/christophemes/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "/Users/christophemes/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40304",
+                "ARDUINO_AVR_UNO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/Users/christophemes/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
